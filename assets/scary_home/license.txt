@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scary home
+* source:	https://sketchfab.com/3d-models/scary-home-7ee91722d1204f76a93c6cb901ee4fe2
+* author:	Alexey (https://sketchfab.com/toliyteslo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scary home" (https://sketchfab.com/3d-models/scary-home-7ee91722d1204f76a93c6cb901ee4fe2) by Alexey (https://sketchfab.com/toliyteslo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
